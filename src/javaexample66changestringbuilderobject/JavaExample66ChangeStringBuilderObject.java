@@ -40,6 +40,7 @@ public class JavaExample66ChangeStringBuilderObject {
         
     }
     
+    
     private static void ChangeStringBuilder1(StringBuilder s)
     {
         s.append("XXXX");
